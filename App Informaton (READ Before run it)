@@ -1,0 +1,20 @@
+Technology:
+-----------
+Laravel Framework
+
+Database:
+---------
+MySQL(MariaDB)
+
+Server:
+-------
+Nginx
+
+Admin Credential:
+-----------------
+Email: admin@storyshare.com
+Password: admin@1234
+
+Database Name: storylrv
+(Import sql file from "SQL File" folder)
+
